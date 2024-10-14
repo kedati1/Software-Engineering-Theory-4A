@@ -4,20 +4,20 @@ Repository for group work.
 # How To Set Up:
 
 Download Fork - https://git-fork.com/
-                4 Sophie - Click Window > Switch Theme to change it to light mode because we know you love it so much.
+4 Sophie - Click Window > Switch Theme to change it to light mode because we know you love it so much.
 
 Go To:
 https://github.com/kedati1/Software-Engineering-Theory-4A
 
 Click the green "<> Code" button on the top right of the repository
-                Select Local > HTTPS     And then copy the Repository URL
+Select Local > HTTPS     And then copy the Repository URL
 
 
 Go to Fork
-      Click File > Clone
-      Paste the Repository URL
-      Select the Parent Folder where you would like the project to be locally stored (It will create its own contained folder for the project.)
-      Input W/E name you want to call the project (This is the name of the folder)
+Click File > Clone
+Paste the Repository URL
+Select the Parent Folder where you would like the project to be locally stored (It will create its own contained folder for the project.)
+Input W/E name you want to call the project (This is the name of the folder)
 
 
 # How To Create a new branch:
