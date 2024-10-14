@@ -21,22 +21,36 @@ Go to Fork
 
 
 # How To Create a new branch:
-      Right Click the Branches tab on the left side
-      Select New Branch
-      Name the branch whatever the current task is (E.G. API Delete)
-      Tick the box "Check out after create" (This selects that branch to be currently used on your local machine)
-      Press the create button
-      NOTE: If you forget to tick the button to check out the branch afterwards, you can just double click the branch on the left to check out
+  Right Click the Branches tab on the left side
+  
+  Select New Branch
+  
+  Name the branch whatever the current task is (E.G. API Delete)
+  
+  Tick the box "Check out after create" (This selects that branch to be currently used on your local machine)
+  
+  Press the create button
+  
+  NOTE: If you forget to tick the button to check out the branch afterwards, you can just double click the branch on the left to check out
 
 # How to push changes to Git Hub    -     Avoid pushing work directly onto the Main branch
-      Once you have changes you wish to submit, Open Fork and press "Local Changes" on the top left. Make sure the group project is what Fork is focusing on
-      Click on any file in the unstaged window and check to see if the changes on the local machine are correct. (This is where you can discard specific changes that may have been accidental)
-      Once happy, Double Click the files in the "Unstaged" window to move them to Staged
-      Give the commit a subject (The title of whats been changed) and a description (will probably help us out later on for documentation purposes)
-      Click the bottom left drop down arrow and select "Commit and Push"
-      Note: If you committed and didnt select "Commit and Push", then u can click the push arrow in the top left.
+  Once you have changes you wish to submit, Open Fork and press "Local Changes" on the top left. Make sure the group project is what Fork is focusing on.
+  
+  Click on any file in the unstaged window and check to see if the changes on the local machine are correct. (This is where you can discard specific changes that may have been accidental)
+  
+  Once happy, Double Click the files in the "Unstaged" window to move them to Staged
+  
+  Give the commit a subject (The title of whats been changed) and a description (will probably help us out later on for documentation purposes)
+  
+  Click the bottom left drop down arrow and select "Commit and Push"
+  
+  Note: If you committed and didnt select "Commit and Push", then u can click the push arrow in the top left.
 
-# To retrieve the most up to date changes and ongoing branches, press the Fetch button on the top left
+# Refreshing Local Project
+To retrieve the most up to date changes and ongoing branches, press the Fetch button on the top left. This will let you see what other people have committed (if anything has been added)
 
-# If your Main branch is out of date after fetching from the server, click the Pull button and select Remote: Origin        Branch: origin/main
-      
+# Fetching Changes from the server
+If your Main branch is out of date after fetching from the server, click the Pull button and select:
+Remote: Origin
+Branch: origin/main
+Click Fetch
